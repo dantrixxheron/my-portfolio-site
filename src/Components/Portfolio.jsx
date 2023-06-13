@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portfolio.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Python for beginners trophy!",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I got my first trophy after finished my first learning path on the Microsoft Learn platform",
+    url: "https://learn.microsoft.com/es-es/training/achievements/learn.beginner-python.trophy?username=CMDaniela&sharingId=B40CCF31AC00151",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Obtain my Alpha Milestone on Microsoft Learn Student Ambassador",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I got my certificate in Microsoft Learn Student Ambassador's program for completing my first learning path on the Microsoft Learn platform",
+    url: "https://studentambassadors.microsoft.com/studentambassadors/certificate/b146ac85-3342-4d3a-a797-dc7c4ce9ca8a",
   },
   {
-    title: "My Resume Site",
+    title: "My first challenge completed in Microsoft Learn",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      'I decided to take the "Start your career in application development and tools" challenge and completed it. Achievement that helped me to learn tools like Git, GitHub and others.',
+    url: "https://learn.microsoft.com/es-es/users/cmdaniela/challenges",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My first repository in GitHub",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "As part of the challenge, I learned some things about GitHub as an introduction, learning that helped me to create my first repository on GitHub from a template.",
+    url: "https://github.com/dantrixxheron/curso-intro-github",
   },
 ];
 
