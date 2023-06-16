@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Daniela Cruz Mejía",
-  title: "Software engineer (student)",
+  title: "Software engineer",
   email: "dantrixxheron.bn@gmail.com",
   gitHub: "dantrixxheron",
   instagram: "dantrixxheron",
