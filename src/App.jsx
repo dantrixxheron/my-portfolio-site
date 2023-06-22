@@ -36,8 +36,8 @@ const siteProps = {
   youTube: "@CMDani",
 };
 
-const primaryColor = "#4E567E";
-const secondaryColor = "#D2F1E4";
+const primaryColor = "#BE820D";
+const secondaryColor = "#FFE9BE";
 
 const App = () => {
   return (
